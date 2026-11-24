@@ -1,0 +1,7 @@
+﻿[2026-11-02 21:00:17] Esperando a que se cierre KiCad (eeschema)...
+[2026-11-02 21:21:02] Copia de seguridad: SEPDUTR_v3_ESP32CAM.kicad_sch.bak_20261102_212102
+[2026-11-02 21:21:02] Etiquetas AUDIO_F encontradas: 5
+[2026-11-02 21:21:02] Duplicada: AUDIO_F en (290,195,148,83) rot 0 -> se elimina; se conserva la de (290,195,146,05) rot 90
+[2026-11-02 21:21:02] C6: rotacion 270 -> 90 (el pin 1 / lado + queda mirando a INL del PAM8403)
+[2026-11-02 21:21:02] Validacion -> parentesis: 4543 abiertos / 4543 cerrados | simbolos: 28 | etiquetas: 74
+[2026-11-02 21:21:02] LISTO: archivo guardado.
